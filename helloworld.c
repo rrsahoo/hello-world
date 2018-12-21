@@ -7,4 +7,6 @@ void main()
   printf("Hello India");
   
   printf("Hello Bangalore");
+  
+  printf ("Hello Harman");
 }
